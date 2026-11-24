@@ -1,0 +1,7 @@
+fastapi==0.163.2
+uvicorn==0.54.0
+openpyxl==3.1.5
+qrcode==8.2
+pillow==13.0.0
+python-multipart==0.0.34
+pydantic==2.14.3
